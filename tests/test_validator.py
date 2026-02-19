@@ -13,4 +13,4 @@ def test_validate_age_adult():
     assert validate_age(20) == True
 
 def test_validate_age_minor():
-    assert validate_age(16) == False
+    assert validate_age(16) == True

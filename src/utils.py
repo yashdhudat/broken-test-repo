@@ -1,7 +1,3 @@
-import os
-import sys
-import json
-
 def add_numbers(a, b):
     return a + b
 
